@@ -1,0 +1,1 @@
+This project implements a machine learning-based approach to detect brain tumors from MRI images. The model uses deep learning techniques (CNN) built with TensorFlow/Keras and OpenCV for image preprocessing and classification. The goal is to assist in early diagnosis by accurately distinguishing between tumor and non-tumor scans.
